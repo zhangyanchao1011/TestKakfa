@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class PropsConfig {
-
+	//666
     @Value("${spring.kafka.bootstrap-servers}")
     private String broker;
 
