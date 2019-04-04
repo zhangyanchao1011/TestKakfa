@@ -6,5 +6,8 @@ package com.yq.config;
  * Date: 2019年4月4日  
  */
 public class UUU {
-
+//345435435
+	public UUU(){
+		
+	}
 }
